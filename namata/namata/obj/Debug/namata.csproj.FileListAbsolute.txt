@@ -4,3 +4,9 @@ c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\bin\Debug\nam
 c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\obj\Debug\namata.csprojResolveAssemblyReference.cache
 c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\obj\Debug\namata.exe
 c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\obj\Debug\namata.pdb
+C:\Users\RANA\Desktop\deleterepository\namata\namata\bin\Debug\namata.exe.config
+C:\Users\RANA\Desktop\deleterepository\namata\namata\obj\Debug\namata.exe
+C:\Users\RANA\Desktop\deleterepository\namata\namata\obj\Debug\namata.pdb
+C:\Users\RANA\Desktop\deleterepository\namata\namata\bin\Debug\namata.exe
+C:\Users\RANA\Desktop\deleterepository\namata\namata\bin\Debug\namata.pdb
+C:\Users\RANA\Desktop\deleterepository\namata\namata\obj\Debug\namata.csprojResolveAssemblyReference.cache

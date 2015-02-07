@@ -10,7 +10,7 @@ namespace namata
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" please enter your target : \n");
+            Console.WriteLine("This is hasans application i am edited somethiong");
             int upto = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\n you gave {0}  ",upto);
             int check = 1,output=1;
@@ -20,7 +20,7 @@ namespace namata
                 for (int j = 1; j <= 10;j++ )
                 {
                     if(check == 1){
-                        Console.WriteLine(i+ " er namata\n");
+                        Console.WriteLine(i+ "  namata\n");
                         check = 0;
                     }
                     output = i * j;
