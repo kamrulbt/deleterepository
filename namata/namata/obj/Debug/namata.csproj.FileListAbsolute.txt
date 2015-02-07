@@ -1,0 +1,6 @@
+c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\bin\Debug\namata.exe.config
+c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\bin\Debug\namata.exe
+c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\bin\Debug\namata.pdb
+c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\obj\Debug\namata.csprojResolveAssemblyReference.cache
+c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\obj\Debug\namata.exe
+c:\users\hasan\documents\visual studio 2013\Projects\namata\namata\obj\Debug\namata.pdb
