@@ -10,7 +10,7 @@ namespace namata
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("change by hasan3 ");
+            Console.WriteLine("change by hasan4 ");
             int upto = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\n you gave {0}  ",upto);
             int check = 1,output=1;
