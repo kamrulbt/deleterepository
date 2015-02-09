@@ -9,3 +9,4 @@ C:\Users\RANA\Desktop\deleterepository\namata\namata\obj\Debug\namata.exe
 C:\Users\RANA\Desktop\deleterepository\namata\namata\obj\Debug\namata.pdb
 C:\Users\RANA\Desktop\deleterepository\namata\namata\bin\Debug\namata.exe
 C:\Users\RANA\Desktop\deleterepository\namata\namata\bin\Debug\namata.pdb
+C:\Users\BT_hasan\Desktop\deleterepository\namata\namata\bin\Debug\namata.exe.config
